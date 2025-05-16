@@ -1,4 +1,4 @@
-# CIND-820-
+# Obesity Analysis For Three LAtin America Countries
 Capstone Project For CIND 820 - Certificate in data analysis, big data, and predictive analysis TMU
  These are the stages of the project.
 1- Problem Definition:
